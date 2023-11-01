@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(83, 112, 255);
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu{
+font-size: 30px;
+font-family: fantasy;
+color: rgb(1, 56, 118);
+font-weight: bolder;
+
+}
+.logo{
+
+}
+
+.propagnda{
+    height: 500px;
+    background-color: blanchedalmond;
+    background: url(tapet.jpg)center ;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
